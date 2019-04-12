@@ -24,7 +24,6 @@ if (isset($data['do_login']))
     }
 }
 ?>
-<a href="index.php">back to main</a>
 <form action="login.php" method="POST">
     <p>
         <p><strong>Login</strong>:</p>
